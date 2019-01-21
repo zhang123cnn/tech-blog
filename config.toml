@@ -1,13 +1,13 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://example.com"
+baseurl = "http://xiaomeng.io"
 
 # Title of your site
-title = "Minimal Academic"
+title = "Xiaomeng's Tech Blog"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Joshua Hu 2018"
+copyright = "&copy; Xiaomeng Zhang 2019"
 
 theme = "minimal-academic"
 enableEmoji = true
